@@ -1,75 +1,35 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# HELLO RAILS AND REACT
 
-# Project Name
+This project is a simple example of a React and Rails application. It displays a random message from a list of messages.
 
-> Description the project.
+## GETTING STARTED
 
+To get started, you need to install the necessary dependencies.
 
-## Built With
+Run the following commands
 
-- Major languages
-- Frameworks
-- Technologies used
+- To install the dependencies: `bundle install`
+- To create the local database: `rails db:create`
+- To seed the database: `rails db:seed`
 
-## Live Demo (if available)
+## About me
 
-[Live Demo Link](https://livedemo.com)
+👤 **David Lyangenda**
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ciraganenicole](https://github.com/LYANGEND)
+- Twitter: [@Lyangenda_david](https://twitter.com/david_lyangenda)
+- LinkedIn: [David-Lyangenda](https://www.linkedin.com/in/davidlyangenda/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the issues page.
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+## License
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This is a MIT licensed project.
